@@ -27,7 +27,7 @@ function applyShadowDOM() {
       </style>
   
       <div id="top">
-        <img src="../../assets/Logo.jpg" />
+        <img src="https://github.com/Ck4d/pwe-atividade-03-3017672/blob/main/assets/Logo.jpg?raw=true" />
   
         <div id="nav_buttons">
           <a href="./index.html">Home</a>
